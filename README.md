@@ -3,7 +3,7 @@ Human Activity Recognition using ML
 
 ## DATASET
 
-click here to download the dataset
+click [here](https://drive.google.com/drive/folders/1RE--P5n8SsHN4tHcnUwKj6iXv7BqtFLv?usp=drive_link) to download the dataset
 
 ## RUN THE PROJECT
 ```python

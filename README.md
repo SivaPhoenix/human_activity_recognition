@@ -6,7 +6,8 @@ The project utilizes a carefully curated dataset of labeled human activities. Th
 
 ## DATASET
 
-click [here](https://drive.google.com/drive/folders/1RE--P5n8SsHN4tHcnUwKj6iXv7BqtFLv?usp=drive_link) to download the dataset
+click [here](https://drive.google.com/drive/folders/1RE--P5n8SsHN4tHcnUwKj6iXv7BqtFLv?usp=drive_link) to download the dataset.
+Download the dataset and set in the corrct directory.
 
 ## RUN THE PROJECT
 ```python

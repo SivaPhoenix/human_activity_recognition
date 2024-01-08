@@ -22,6 +22,4 @@ python recognise_human_activity.py
 
 The project aims to achieve high accuracy and robustness in recognizing human activities. The results achieved on the evaluation metrics, as well as any comparative analysis with other approaches, will be detailed in this section
 
-## LICENSE
 
-This project is licensed under the MIT License.
